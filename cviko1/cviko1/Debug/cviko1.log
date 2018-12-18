@@ -1,0 +1,12 @@
+﻿  Application.cpp
+d:\vsb\zpg\cviko1\cviko1\object.h(15): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\vsb\zpg\cviko1\cviko1\application.cpp(59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\vsb\zpg\cviko1\cviko1\application.cpp(60): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\vsb\zpg\cviko1\cviko1\application.cpp(219): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\vsb\zpg\cviko1\cviko1\application.cpp(220): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\vsb\zpg\cviko1\cviko1\application.cpp(266): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\vsb\zpg\cviko1\cviko1\application.cpp(324): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\vsb\zpg\cviko1\cviko1\application.cpp(325): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\vsb\zpg\cviko1\cviko1\application.cpp(361): warning C4305: '+=': truncation from 'double' to 'float'
+d:\vsb\zpg\cviko1\cviko1\application.cpp(372): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  cviko1.vcxproj -> D:\VSB\ZPG\cviko1\Debug\cviko1.exe
